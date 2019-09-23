@@ -9,7 +9,7 @@ class Shieldactory(object):
 
 class Shield(object):
     def __init__(self, name, power):
-        pass
+        self.name = name
 
     def block(self):
         return random.randint(0, self.power)
