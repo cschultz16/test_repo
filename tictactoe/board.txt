@@ -1,6 +1,6 @@
 O x O
 O x x
-x O _
+x x O
 
 _ _ _
 _ _ _ 
